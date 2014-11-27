@@ -271,3 +271,13 @@ Ab hier haben wir bereits über 100 Streams!
 - Schlagerlovers added
 - Christmaslovers added (Nur über Weihnachten)
 - Kiss FM added
+
+
+++++ 27.11.2014 ++++ v2.8.2 v2.8.1
+
+- Oben sind nun die Weihnachts Radios, nur 2 Stück.
+- ILoveRadio X-MAS added
+- Christmas Lovers added
+
+Warum nur 2? Da bei den Weihnachts Tagen fast überall Weihnachts Musik kommt ;).
+
