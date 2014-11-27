@@ -28,8 +28,6 @@ There you will find a live_streams.sii. The trade off with the one that was with
 
 Have fun with the new radio streams. Do you have any suggestions radio? or all proposals? Then they write this in my thread. Link you will find below a little further.
 
-Thanks, the Google Translator ;)
-
 
 
 +++++++++++++++++++++++++++++ EMPFOHLENE LINKS +++++++++++++++++++++++++++++
