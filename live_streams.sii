@@ -101,7 +101,7 @@ live_stream_def : .live_streams {
  stream_data[96]: "http://87.230.53.43:8008|Star FM Classic|Rock Classic|DE|128"
  stream_data[97]: "http://85.25.209.152:8400|Star FM Blues|Blues|DE|128"
  stream_data[98]: "http://85.25.209.150:8100|Star FM From Hell|Hard Rock|DE|128"
- stream_data[99]: "http://85.25.209.152:8200|Star FM Alternative|Alternative/Indie|DE|128"
+ stream_data[99]: "http://85.25.209.152:8200|Star FM Alternative|Alternative+Indie|DE|128"
  stream_data[100]: "|****** Informationen ******|-|-|0"
  stream_data[101]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
  stream_data[102]: "|* Version: v2.8.2 *|-|-|0"
