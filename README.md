@@ -1,12 +1,11 @@
-Radiostreams-fuer-ETS2
-======================
+Radiostreams für ETS2
 
-+++++++++++++++++++++++++++++ INFORMATIONEN UND ANLEITUNG ZUM INSTALLIEREN +++++++++++++++++++++++++++++
-
+►►►►►►►►►►►►►►►►► INFORMATIONEN UND ANLEITUNG ZUM INSTALLIEREN ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
 
 
 
-+++++++++++++++++++++++++++++ GERMAN / DEUTSCH +++++++++++++++++++++++++++++
+
+►►►►►►►►►►►►►►►►► DEUTSCH ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
 
 
 Frage: Wie füge ich die neuen Radiostreams ein?
@@ -18,7 +17,7 @@ Viel spaß mit den neuen Radiostreams. Haben Sie weitere Radio Vorschläge? oder
 
 
 
-+++++++++++++++++++++++++++++ ENGLISH / ENGLISCH +++++++++++++++++++++++++++++
+►►►►►►►►►►►►►►►►► ENGLISH ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
 
 
 Question: How do I add a new radio streams?
@@ -26,23 +25,23 @@ Question: How do I add a new radio streams?
 Answer: Go to the following directory: C:\Users\Benutzer\Documents\Euro Truck Simulator 2.
 There you will find a live_streams.sii. The trade off with the one that was with settled here / is. Simply copy and then replace it.
 
-Have fun with the new radio streams. Do you have any suggestions radio? or all proposals? Then they write this in my thread. Link you will find below a little further.
+Have fun with the new radio streams.
 
 
 
-+++++++++++++++++++++++++++++ EMPFOHLENE LINKS +++++++++++++++++++++++++++++
+►►►►►►►►►►►►►►►►► EMPFOHLENE LINKS ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
 
 
-ETS2MP.de Thread:                               http://bit.ly/1xWklYK
-ETS2MP.de LaxZ Profil: 				                  http://forum.ets2mp.de/user/326-laxz/
-ETS2MP.com Offizielle Seite des Multiplayers: 	http://ets2mp.com/
-LaxZ Website: 					                        www.laxz.de
-Radio Updater (Danke an Durable):		            http://mirror.ares.julians-info.de/ets2/radioupdater/ETS2RadioUpdater.exe			
+ETS2MP.de Thread: http://bit.ly/1xWklYK
+ETS2MP.de LaxZ Profil: http://forum.ets2mp.de/user/326-laxz/
+ETS2MP.com Offizielle Seite des Multiplayers: http://ets2mp.com/
+LaxZ Website: www.laxz.de
+Radio Updater (Danke an Durable):	http://mirror.ares.julians-info.de/ets2/radioupdater/ETS2RadioUpdater.exe			
 
 
 
 
-+++++++++++++++++++++++++++++ ÄNDERUNGEN / CHANGELOG ( Ganz unten ist die Aktuelle Version Changelog ) +++++++++++++++++++++++++++++
+►►►►►►►►►►►►►►►►► CHANGELOG ( Ganz unten ist die Aktuelle Version ) ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
 
 
 ++++ 08.05.2014 ++++ v1.0
