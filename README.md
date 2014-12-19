@@ -1,11 +1,11 @@
 Radiostreams für ETS2
 
-►►►►►►►►►►►►►►►►► INFORMATIONEN UND ANLEITUNG ZUM INSTALLIEREN ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
+►►►►► INFORMATIONEN UND ANLEITUNG ZUM INSTALLIEREN ◄◄◄◄◄
 
 
 
 
-►►►►►►►►►►►►►►►►► DEUTSCH ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
+►►►►►►►►►►►►► DEUTSCH ◄◄◄◄◄◄◄◄◄◄◄◄◄
 
 
 Frage: Wie füge ich die neuen Radiostreams ein?
@@ -17,7 +17,7 @@ Viel spaß mit den neuen Radiostreams. Haben Sie weitere Radio Vorschläge? oder
 
 
 
-►►►►►►►►►►►►►►►►► ENGLISH ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
+►►►►►►►►►►►►► ENGLISH ◄◄◄◄◄◄◄◄◄◄◄◄◄
 
 
 Question: How do I add a new radio streams?
@@ -29,7 +29,7 @@ Have fun with the new radio streams.
 
 
 
-►►►►►►►►►►►►►►►►► EMPFOHLENE LINKS ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
+►►►►►►►►►►►►► EMPFOHLENE LINKS ◄◄◄◄◄◄◄◄◄◄◄◄◄
 
 
 ETS2MP.de Thread: http://bit.ly/1xWklYK
@@ -41,7 +41,7 @@ Radio Updater (Danke an Durable):	http://mirror.ares.julians-info.de/ets2/radiou
 
 
 
-►►►►►►►►►►►►►►►►► CHANGELOG ( Ganz unten ist die Aktuelle Version ) ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
+►►►►►►►►►►►►► CHANGELOG ( Ganz unten ist die Aktuelle Version ) ◄◄◄◄◄◄◄◄◄◄◄◄◄
 
 
 ++++ 08.05.2014 ++++ v1.0
