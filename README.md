@@ -280,3 +280,8 @@ Ab hier haben wir bereits über 100 Streams!
 
 Warum nur 2? Da bei den Weihnachts Tagen fast überall Weihnachts Musik kommt ;).
 
+
+++++ 24.12.2014 ++++ v3.0
+
+- Europaweite Version added
+- Kleinere Fixes in der Normalen Version
