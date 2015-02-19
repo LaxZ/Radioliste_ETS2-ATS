@@ -43,245 +43,48 @@ Radio Updater (Danke an Durable):	http://mirror.ares.julians-info.de/ets2/radiou
 
 ►►►►►►►►►►►►► CHANGELOG ( Ganz unten ist die Aktuelle Version ) ◄◄◄◄◄◄◄◄◄◄◄◄◄
 
-
-++++ 08.05.2014 ++++ v1.0
-
-- Erster Release
-
-
-++++ 08.05.2014 ++++ v1.1
-
-- HR3 added
-- HR4 added
-- BigFM removed, reason: bug
-- WeAreOne Radio deaktiviert, gab probleme beim abspielen (Wurde ab Version 1.4 wieder hinzugefügt)
-
-
-++++ 08.05.2014 ++++ v1.2
-
-- 4 Neue Radios (Housetime, Hardbase, Technobase, Trancebase)
-- Schreibfehler fix
-
-
-++++ 09.05.2014 ++++ v1.3
-
-- 12 Neue Radios (Antenne Bayern, FloatStylez.fm, HR3,HR4, RauteMusik#Country, N-Joy, Dancetime.fm, technolovers, hardlovers, rautemusik trance, clublovers, houselovers)
-- Jetzt in Katogorien verteilt
-- Housetime, Hardbase, Technobase, Trancebase komplett entfernt, da nicht abgespielt wird
-- Text bearbeitet
-
-
-++++ 09.05.2014 ++++ v1.4
-
-- 3 Neue Radios (NDR1 MV, RPR1, Ostseewelle)
-- We Are One Radios wieder eingefügt
-- NDR1 Niedersachsen fixxed, wurde ein falscher Stream abgespielt
-- Erneut ein paar Radios sortiert
-- Erneut ein paar Texte bearbeitet
-
-
-++++ 12.05.2014 ++++ v1.5
-
-- WDR2 added
-- Hitradio Ö3 added
-- Radio Brocken added
-
-
-++++ 13.05.2014 ++++ v1.6
-
-- Trance.FM added (Englisches Webradio)
-- Radio SAW added
-- R.SA Sachsen added
-- R.SH Schleswig-Holstein added
-- FFH added
-- Readme - Anleitungstext verändert
-
-
-++++ 19.05.2014 ++++ v1.7
-
-- ETS2MP.de Radio added
-- Rechtschreibfehler / Namen der Radios etwas übersichtlicher gemacht
-- Delta Radio added
-- Radio 21 added
-- 104.6 RTL added
-- Bayern 3 added
-- Antenne Niedersachsen Bremen added
-- Alster Radio added
-- PulsRadio added
-- Eine neue Katogorie (Exklusiv Radios)
-- Erneut etwas sortiert
-- Bundesland hinter den jeweiligen Radio added
-
-
-++++ 24.05.2014 ++++ v1.8
-
-- Metal FM added
-- Techno4Ever.FM Main and Club added
-- Euro Transport Radio added
-- Radio Leipzig added
-- Radio 24 added
-- Radio hErford added
-
-
-++++ 06.06.2014 ++++ V1.9
-
-- BB Radio added
-- Antenne Bayern Classic Rock added
-- Antenne MV added
-- Paar Radio namen gekürtzt
-- Fixes
-
-
-++++ 07.06.2014 ++++ v1.9.1
-
-- GTA Radios Techno und Pop added
-- Radio Gong Würzburg added
-- Das Hitrado added
-
-
-++++ 18.06.2014 ++++ v2.0
-
-- BlackBeats.FM added
-- RauteMusik BigCityBeats added
-- Q-Dance Radio added
-- DubLovers fixed, neuer Stream-Link da sie Wechsel gemacht haben
-- TechnoLovers added
-- HouseLovers added
-- HardLovers added
-- TranceLovers added
-- LoungeLovers added
-- ClubLovers added
-- ChartsRadio added
-- RnBRadio added
-- Mehr Sternchen bei Kategorie Namen für mehr Übersicht
-- Exklusiv Radio Kategorie geändert in Premium Radios
-
-
-++++ 26.06.2014 ++++ v2.1
-
-- Die Textdatei verändert (verbesserten Text, etwas mehr übersichtlich)
-- Mehr Sortiert (Nach bundesland, bzw. eingeordnet)
-- Text Minimal bearbeitet
-- Neuer Downloadhoster (Mein eigener ;))
-- ETS2Mp.de Radio Neuer Stream URL
-- Energy 103.4 added
-- Antenne Thüringen added
-- ORF Radio Tirol added
-
-
-++++ 29.06.2014 ++++ v2.1.1
-
-- Radio Emscher Lippe 98.7 added
-- ETS2MP.de Radio erneut fixed
-- Info Text added (was man machen soll, falls ein Radio nicht geht)
-
-
-++++ 08.07.2014 ++++ v2.1.2
-
-- ILoveRadio Battle added
-- ILoveRadio Ibiza added
-- ILoveRadio ILoveYou added
-- Minimale nicht wichtige änderungen
-
-
-++++ 12.07.2014 ++++ v2.1.3
-
-- Radio 21 Fixed
-
-
-++++ 13.07.2014 ++++ v2.2
-
-- Radio Tirol mit Antenne Salzburg ausgetauscht
-- GTA Radios POP und Techno entfernt
-- DasDing Radio added
-- Kleine Text änderungen
-
-
-++++ 20.07.2014 ++++ v2.3
-
-- Radio Fantasy added
-- Hitradio RT1 96.7 added
-- Radio Nora added
-- 1Live diggi added
-- Radio Gong München added
-
-
-++++ 23.07.2014 ++++ v2.3.1
-
-- BigFM added
-
-
-++++ 26.07.2014 ++++ v2.3.2
-
-- ETS2 Radio entfernt und stattdessen Platzhalter für das SimRadio hinzugefügt (Neues Radio vom offiziellen ETS2MP.de Forum)
-
-
-++++ 28.07.2014 ++++ v2.4
-
-- Anpassung an Patch 1.11 (Man kann jetzt seit neusten Favoriten wählen)
-- Info Texte verkürzt
-- SimRadio added
-
-Die neue Sortierung kommt entweder bei v2.5 oder bei v3.0.
-WICHTIG: Ab v2.4 nicht auf Bitrate, Genre oder Sprache klicken! Das bringt die Sortierung durcheinander! Favoriten könnt ihr Links mit den Pfeil auswählen, denkt dran, das dadurch auch die Sortierung verloren geht.
-
-
-++++ 04.08.2014 ++++ v2.4.1
-
-- Radio Sauerland added
-- NE-WS 89.4 added
-
-
-++++ 23.08.2014 ++++ v2.4.2
-
-- Kleinere Änderungen / Fixes
-
-
-++++ 23.09.2014 ++++ v2.5
-
-- Fixes
-- Englisches Euro Truck Radio added
-- Radio 7 added
-- 54house added
-
-
-++++ 15.10.2014 ++++ v2.6 (Rock Edition :D)
-
-- Antenne Niedersachsen fixed
-- Star FM added (berlin)
-- Star FM Rock Classics added
-- Star FM Blues added
-- Star FM From Hell added
-- Star FM Alternative added
-
-Ab hier haben wir bereits über 100 Streams!
-
-
-++++ 21/22.10.2014 ++++ v2.7
-
-- SimRadio entfernt (Gibt es nicht mehr)
-- ILoveRadio Stream Links erneuert
-- ILoveRadio About: Berlin added
-
-
-++++ 16.11.2014 ++++ v2.8
-
-- Minimale Änderung
-- Schlagerlovers added
-- Christmaslovers added (Nur über Weihnachten)
-- Kiss FM added
-
-
-++++ 27.11.2014 ++++ v2.8.2 v2.8.1
-
-- Oben sind nun die Weihnachts Radios, nur 2 Stück.
-- ILoveRadio X-MAS added
-- Christmas Lovers added
-
-Warum nur 2? Da bei den Weihnachts Tagen fast überall Weihnachts Musik kommt ;).
+WICHTIG:!!!!!!!!: Falls du die Europaweite Version benutzen willst, musst du die live_streams_Europaweit.sii IN live_streams.sii umbennen!!
+Wichtig: In der Europaweite Version geht es jeweils pro Land 5 Radios und es gibt auch keine Internetradios!
+Die Versionsnummer bei der EU version fängt bei 1.0 an. Bei der Normalen bleibt dies jetzt bei v3.0.
 
 
 ++++ 24.12.2014 ++++ v3.0
 
-- Europaweite Version added
-- Kleinere Fixes in der Normalen Version
+- Europaweite Version eingefügt (Einfach die .sii umbennen)
+
+Es kann sein, das in der Europaweiten Version manche Streams nicht funktionieren, falls ihr ein
+gefunden habt, bitte ich euch dies zu melden. Am besten per PN oder im Thread. Es werden dort noch Streams eingefügt.
+
+
+++++ 25.12.2014 ++++ v3.1
+
+--- Europaweite Version:
+- Wichtiger Fehler gefixt
+
+--- Normale Version:
+- ClubLovers entfernt, gibt es nicht mehr
+- Radio Regenbogen added
+- Kleinere Fixes
+
+
+++++ 26.01.2015 ++++ v3.2
+
+--- Europaweite Version:
+- Keine Änderungen
+
+--- Normale Version:
+- Weihnachts Radios entfernt
+
+
+++++ 16.02.2015 ++++ v3.3
+
+--- Europaweite Version:
+- Keine Änderungen
+
+--- Normale Version:
+- Radio 21 fixed
+- Energy 103.4 fixed
+- Kiss FM fixed
+- Antenne Salzburg fixed
+- FloatStylez ersetzt durch Radio GFM (Gema freie Musik)
+- Techno4Ever.FM Hard added
