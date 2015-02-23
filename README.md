@@ -88,3 +88,15 @@ gefunden habt, bitte ich euch dies zu melden. Am besten per PN oder im Thread. E
 - Antenne Salzburg fixed
 - FloatStylez ersetzt durch Radio GFM (Gema freie Musik)
 - Techno4Ever.FM Hard added
+
+
+++++ 23.02.2015 ++++ v3.4
+
+--- Europaweite Version:
+- Neue Radios bei jedem Land
+
+--- Normale Version:
+- Kleine Design Änderung
+- Technobase.FM unter Premium Radios
+
+
