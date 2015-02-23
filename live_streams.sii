@@ -3,11 +3,11 @@ SiiNunit
 live_stream_def : .live_streams {
  stream_data: 106
  stream_data[0]: "|* Erstellt von LaxZ *|-|-|0"
- stream_data[1]: "|*** Premium Radios ***|-|-|0"
+ stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://streamplus8.leonex.de:21788/|Euro Transport Radio|Mix|DE|128"
  stream_data[3]: "|Platzhalter|-|-|128"
  stream_data[4]: "http://radio.eurotruckradio.com:8002/;stream.mp3|Euro Truck Radio|Mix|UK|128"
- stream_data[5]: "|****** UKW Radios ******|-|-|0"
+ stream_data[5]: "|[+++++ UKW Radios +++++]|-|-|0"
  stream_data[6]: "http://ndr-ndr2-nds-mp3.akacast.akamaistream.net/7/400/252763/v1/gnl.akacast.akamaistream.net/ndr_ndr2_nds_mp3|NDR 2 - Hamburg|Mix|DE|128"
  stream_data[7]: "http://ndr-n-joy-mp3.akacast.akamaistream.net/7/665/273752/v1/gnl.akacast.akamaistream.net/ndr_n-joy_mp3|N-Joy - Hamburg|Dance + Top 40|DE|128"
  stream_data[8]: "http://62.75.154.4:80/|Alster Radio - Hamburg|Mix|DE|128"
@@ -60,7 +60,7 @@ live_stream_def : .live_streams {
  stream_data[55]: "http://live.radio24.ch/radio24|Radio 24 - Schweiz|Mix|DE|128"
  stream_data[56]: "http://83.133.105.57/bbradio.mp3|BB Radio - Brandenburg|Mix|DE|128"
  stream_data[57]: "http://xapp2023227392c40000.f.l.i.lb.core-cdn.net/40000mb/live/app2023227392/w2075033608/live_de_128.mp3|Antenne Thüringen - Thüringen|Mix|DE|128"
- stream_data[58]: "|****** Internet Radios ******|-|-|0"
+ stream_data[58]: "|[+++++ Internet Radios +++++]|-|-|0"
  stream_data[59]: "http://stream01.iloveradio.de/iloveradio1.mp3|ILoveRadio|Charts+Partyhits|DE|128"
  stream_data[60]: "http://stream02.iloveradio.de/iloveradio2.mp3|ILoveRadio Dance|EDM+DJMIX|DE|128"
  stream_data[61]: "http://stream05.iloveradio.de/iloveradio5.mp3|ILoveRadio MashUp|Mashup|DE|128"
@@ -103,11 +103,11 @@ live_stream_def : .live_streams {
  stream_data[98]: "http://85.25.209.152:8400|Star FM Blues|Blues|DE|128"
  stream_data[99]: "http://85.25.209.150:8100|Star FM From Hell|Hard Rock|DE|128"
  stream_data[100]: "http://85.25.209.152:8200|Star FM Alternative|Alternative+Indie|DE|128"
- stream_data[101]: "|****** Informationen ******|-|-|0"
+ stream_data[101]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[102]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
  stream_data[103]: "|* Normale Version *|-|-|0"
  stream_data[104]: "|* Version: v3.3 *|-|-|0"
- stream_data[105]: "|* LaxZ.de - ETS2MP.de *|-|-|0"
+ stream_data[105]: "|* ETS2MP.de *|-|-|0"
 }									
 									
 }									
