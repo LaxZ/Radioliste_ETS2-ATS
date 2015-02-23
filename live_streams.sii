@@ -5,7 +5,7 @@ live_stream_def : .live_streams {
  stream_data[0]: "|* Erstellt von LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://streamplus8.leonex.de:21788/|Euro Transport Radio|Mix|DE|128"
- stream_data[3]: "|Platzhalter|-|-|128"
+ stream_data[3]: "http://mp3.stream.tb-group.fm/tb.mp3|TechnoBase.FM|Techno+Trance|DE|128"
  stream_data[4]: "http://radio.eurotruckradio.com:8002/;stream.mp3|Euro Truck Radio|Mix|UK|128"
  stream_data[5]: "|[+++++ UKW Radios +++++]|-|-|0"
  stream_data[6]: "http://ndr-ndr2-nds-mp3.akacast.akamaistream.net/7/400/252763/v1/gnl.akacast.akamaistream.net/ndr_ndr2_nds_mp3|NDR 2 - Hamburg|Mix|DE|128"
