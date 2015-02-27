@@ -20,10 +20,10 @@ Viel spaß mit den neuen Radiostreams. Haben Sie weitere Radio Vorschläge? oder
 ►►►►►►►►►►►►► ENGLISH ◄◄◄◄◄◄◄◄◄◄◄◄◄
 
 
-Question: How do I add a new radio streams?
+Question: How do I add the file?
 
 Answer: Go to the following directory: C:\Users\Benutzer\Documents\Euro Truck Simulator 2.
-There you will find a live_streams.sii. The trade off with the one that was with settled here / is. Simply copy and then replace it.
+There you will find a live_streams.sii. Simply copy and then replace it.
 
 Have fun with the new radio streams.
 
