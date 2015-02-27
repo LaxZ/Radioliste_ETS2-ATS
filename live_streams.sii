@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 109
+ stream_data: 110
  stream_data[0]: "|* Erstellt von LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://streamplus8.leonex.de:21788/|Euro Transport Radio|Mix|DE|128"
@@ -106,11 +106,12 @@ live_stream_def : .live_streams {
  stream_data[101]: "http://85.25.209.152:8400|Star FM Blues|Blues|DE|128"
  stream_data[102]: "http://85.25.209.150:8100|Star FM From Hell|Hard Rock|DE|128"
  stream_data[103]: "http://85.25.209.152:8200|Star FM Alternative|Alternative+Indie|DE|128"
- stream_data[104]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[105]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[106]: "|* Normale Version *|-|-|0"
- stream_data[107]: "|* Version: v3.5 *|-|-|0"
- stream_data[108]: "|* ETS2MP.de *|-|-|0"
+ stream_data[104]: "http://listen.dancetime.fm/deejay/|Dancetime.FM|Dance|DE|128"
+ stream_data[105]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[106]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[107]: "|* Normale Version *|-|-|0"
+ stream_data[108]: "|* Version: v3.5 *|-|-|0"
+ stream_data[109]: "|* ETS2MP.de *|-|-|0"
 }									
 									
 }									
