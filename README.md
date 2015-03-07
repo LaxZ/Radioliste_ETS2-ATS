@@ -1,11 +1,9 @@
-Radiostreams für ETS2
-
-►►►►► INFORMATIONEN UND ANLEITUNG ZUM INSTALLIEREN ◄◄◄◄◄
-
+INFORMATIONEN UND ANLEITUNG ZUM INSTALLIEREN
+=============
 
 
-
-►►►►►►►►►►►►► DEUTSCH ◄◄◄◄◄◄◄◄◄◄◄◄◄
+DEUTSCH
+==============
 
 
 Frage: Wie füge ich die neuen Radiostreams ein?
@@ -17,8 +15,8 @@ Viel spaß mit den neuen Radiostreams. Haben Sie weitere Radio Vorschläge? oder
 
 
 
-►►►►►►►►►►►►► ENGLISH ◄◄◄◄◄◄◄◄◄◄◄◄◄
-
+ENGLISH
+=====
 
 Question: How do I add the file?
 
@@ -28,20 +26,18 @@ There you will find a live_streams.sii. Simply copy and then replace it.
 Have fun with the new radio streams.
 
 
+EMPFOHLENE LINKS
+======
 
-►►►►►►►►►►►►► EMPFOHLENE LINKS ◄◄◄◄◄◄◄◄◄◄◄◄◄
-
-
-ETS2MP.de Thread: http://bit.ly/1xWklYK
-ETS2MP.de LaxZ Profil: http://forum.ets2mp.de/user/326-laxz/
-ETS2MP.com Offizielle Seite des Multiplayers: http://ets2mp.com/
-LaxZ Website: www.laxz.de
-Radio Updater (Danke an Durable):	http://mirror.ares.julians-info.de/ets2/radioupdater/ETS2RadioUpdater.exe			
-
+- ETS2MP.de Thread: http://bit.ly/1xWklYK
+- ETS2MP.de LaxZ Profil: http://forum.ets2mp.de/user/326-laxz/
+- ETS2MP.com Offizielle Seite des Multiplayers: http://ets2mp.com/
+- LaxZ Website: www.laxz.de
+- Radio Updater (Danke an Durable):	http://mirror.ares.julians-info.de/ets2/radioupdater/ETS2RadioUpdater.exe			
 
 
-
-►►►►►►►►►►►►► CHANGELOG ( Ganz unten ist die Aktuelle Version ) ◄◄◄◄◄◄◄◄◄◄◄◄◄
+CHANGELOG
+===
 
 WICHTIG:!!!!!!!!: Falls du die Europaweite Version benutzen willst, musst du die live_streams_Europaweit.sii IN live_streams.sii umbennen!!
 Wichtig: In der Europaweite Version geht es jeweils pro Land 5 Radios und es gibt auch keine Internetradios!
