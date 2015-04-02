@@ -19,7 +19,7 @@ live_stream_def : .live_streams {
  stream_data[14]: "http://edge.live.mp3.mdn.newmedia.nacamar.net/ostseewellelive/livestream.mp3|Ostseewelle - Mecklenburg-Vorpommern|Mix|DE|128"
  stream_data[15]: "http://80.237.156.47:80|89.0 RTL - Sachsen-Anhalt|Mix|DE|128"
  stream_data[16]: "http://c22033-l.i.core.cdn.streamfarm.net/22004mdrjump/live/3087mdr_jump/live_de_128.mp3|MDR Jump - Sachsen-Anhalt|Rock + Pop|DE|128"
- stream_data[17]: "http://80.237.210.58|Radio Brocken - Sachsen-Anhalt|Mix|DE|128"
+ stream_data[17]: "http://xapp2278162432c40000.f.l.i.lb.core-cdn.net/40000mb/live/app2278162432/w2276392964/live_de_128.mp3|Radio Brocken - Sachsen-Anhalt|Mix|DE|128"
  stream_data[18]: "http://stream.hoerradar.de/mp3-radiosaw-128|Radio SAW - Sachsen-Anhalt|Mix|DE|128"
  stream_data[19]: "http://stream.104.6rtl.com/rtl-live/mp3-128|104.6 RTL - Berlin|Top 40|DE|128"
  stream_data[20]: "http://95.81.155.20/7641/nrj_124709.mp3|Energy 103.4 - Berlin|Top 40 + Pop|DE|128"
