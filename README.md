@@ -105,3 +105,14 @@ gefunden habt, bitte ich euch dies zu melden. Am besten per PN oder im Thread. E
 - http://www.radiomonster.fm/ - Alle Streams eingefügt. EMPFEHLUNG
 
 
+++++ Unbekannt ++++ v3.52
+
+--- Europaweite Version:
+- Keine Änderungen
+
+--- Normale Version:
+- Metal Only added
+- Metal FM removed
+- Radio Brocken fixed
+
+
