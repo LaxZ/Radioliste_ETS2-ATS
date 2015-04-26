@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 110
+ stream_data: 112
  stream_data[0]: "|* Erstellt von LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://streamplus8.leonex.de:21788/|Euro Transport Radio|Mix|DE|128"
@@ -107,11 +107,13 @@ live_stream_def : .live_streams {
  stream_data[102]: "http://85.25.209.152:8200|Star FM Alternative|Alternative+Indie|DE|128"
  stream_data[103]: "http://listen.dancetime.fm/deejay/|Dancetime.FM|Dance|DE|128"
  stream_data[104]: "http://server1.blitz-stream.de:4400|Metal Only|Metal|DE|128"
- stream_data[105]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[106]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[107]: "|* Normale Version *|-|-|0"
- stream_data[108]: "|* Version: v3.5.2 *|-|-|0"
- stream_data[109]: "|* ETS2MP.de *|-|-|0"
+ stream_data[105]: "http://7639.live.streamtheworld.com/977_ALTERN_SC|977 Music - Alternative|Rock|US|128"
+ stream_data[106]: "http://7609.live.streamtheworld.com/977_HITS_SC|977 Music - Todays Hits|Mix|US|128"
+ stream_data[107]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[108]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[109]: "|* Normale Version *|-|-|0"
+ stream_data[110]: "|* Version: v3.57 *|-|-|0"
+ stream_data[111]: "|* ETS2MP.de *|-|-|0"
 }									
 									
 }									
