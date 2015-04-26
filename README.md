@@ -116,3 +116,13 @@ gefunden habt, bitte ich euch dies zu melden. Am besten per PN oder im Thread. E
 - Radio Brocken fixed
 
 
+++++ 26.04.2015 ++++ v3.58
+
+--- Europaweite Version:
+- Keine Änderungen
+
+--- Normale Version:
+- 977 Music Alternative Rock added
+- 977 Music Todays Hits added
+
+
