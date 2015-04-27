@@ -126,3 +126,13 @@ gefunden habt, bitte ich euch dies zu melden. Am besten per PN oder im Thread. E
 - 977 Music Todays Hits added
 
 
+++++ 27.04.2015 ++++ v3.61
+
+--- Europaweite Version:
+- Keine Änderungen
+
+--- Normale Version:
+- Kronehit added
+
+
+
