@@ -66,7 +66,7 @@ live_stream_def : .live_streams {
  stream_data[61]: "http://stream02.iloveradio.de/iloveradio2.mp3|ILoveRadio Dance|EDM+DJMIX|DE|128"
  stream_data[62]: "http://stream05.iloveradio.de/iloveradio5.mp3|ILoveRadio MashUp|Mashup|DE|128"
  stream_data[63]: "http://stream03.iloveradio.de/iloveradio3.mp3|ILoveRadio The Battle|Urban + Hip Hop|DE|128"
- stream_data[64]: "http://stream06.iloveradio.de/iloveradio6.mp3|ILoveRadio Ibiza|Techhouse|DE|128"
+ stream_data[64]: "http://stream06.iloveradio.de/iloveradio6.mp3|ILoveRadio MyParty|Trashpop+Partyhits|DE|128"
  stream_data[65]: "http://stream04.iloveradio.de/iloveradio4.mp3|ILoveRadio ILoveYou|Youtuber+Popstars|DE|128"
  stream_data[66]: "http://stream07.iloveradio.de/iloveradio7.mp3|ILoveRadio About Berlin|Chillhouse|DE|128"
  stream_data[67]: "http://80.237.152.83/top100station.mp3|Top100Station|Top 40|DE|128"
