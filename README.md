@@ -136,4 +136,14 @@ gefunden habt, bitte ich euch dies zu melden. Am besten per PN oder im Thread. E
 - Kronehit 90s Dance added
 
 
+++++ 06.05.2015 ++++ v3.66
+
+--- Europaweite Version:
+- Keine Änderungen
+
+--- Normale Version:
+- ILoveRadio - ILoveMyParty added
+- 89.0 RTL In the mix added
+- minor fixes
+
 
