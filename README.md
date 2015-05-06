@@ -33,7 +33,6 @@ EMPFOHLENE LINKS
 - ETS2MP.de LaxZ Profil: http://forum.ets2mp.de/user/326-laxz/
 - ETS2MP.com Offizielle Seite des Multiplayers: http://ets2mp.com/
 - LaxZ Website: www.laxz.de
-- Radio Updater (Danke an Durable):	http://mirror.ares.julians-info.de/ets2/radioupdater/ETS2RadioUpdater.exe			
 
 
 CHANGELOG
