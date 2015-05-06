@@ -17,7 +17,7 @@ live_stream_def : .live_streams {
  stream_data[12]: "http://ndr-ndrradiomv-sn-mp3.akacast.akamaistream.net/7/992/273771/v1/gnl.akacast.akamaistream.net/ndr_ndrradiomv_sn_mp3|NDR 1 - Mecklenburg-Vorpommern|Schlager|DE|128"
  stream_data[13]: "http://stream.hoerradar.de/antennemv-mp3|Antenne MV - Mecklenburg-Vorpommern|Mix|DE|128"
  stream_data[14]: "http://edge.live.mp3.mdn.newmedia.nacamar.net/ostseewellelive/livestream.mp3|Ostseewelle - Mecklenburg-Vorpommern|Mix|DE|128"
- stream_data[15]: "http://80.237.156.47:80|89.0 RTL - Sachsen-Anhalt|Mix|DE|128"
+ stream_data[15]: "http://xapp2278162432c40000.f.l.i.lb.core-cdn.net/40000mb/live/app2278162432/w2288975872/live_de_128.mp3|89.0 RTL - Sachsen-Anhalt|Mix|DE|128"
  stream_data[16]: "http://c22033-l.i.core.cdn.streamfarm.net/22004mdrjump/live/3087mdr_jump/live_de_128.mp3|MDR Jump - Sachsen-Anhalt|Rock + Pop|DE|128"
  stream_data[17]: "http://xapp2278162432c40000.f.l.i.lb.core-cdn.net/40000mb/live/app2278162432/w2276392964/live_de_128.mp3|Radio Brocken - Sachsen-Anhalt|Mix|DE|128"
  stream_data[18]: "http://stream.hoerradar.de/mp3-radiosaw-128|Radio SAW - Sachsen-Anhalt|Mix|DE|128"
@@ -111,11 +111,12 @@ live_stream_def : .live_streams {
  stream_data[106]: "http://7639.live.streamtheworld.com/977_ALTERN_SC|977 Music - Alternative|Rock|US|128"
  stream_data[107]: "http://7609.live.streamtheworld.com/977_HITS_SC|977 Music - Todays Hits|Mix|US|128"
  stream_data[108]: "http://onair-ha1.krone.at/kronehit-90sdance.mp3|Kronehit 90s Dance|90s|DE|64"
- stream_data[109]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[110]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[111]: "|* Normale Version *|-|-|0"
- stream_data[112]: "|* Version: v3.61 *|-|-|0"
- stream_data[113]: "|* ETS2MP.de *|-|-|0"
+ stream_data[109]: "http://xapp2278162432c40000.f.l.i.lb.core-cdn.net/40000mb/live/app2278162432/w2288975873/live_de_128.mp3|89.0 RTL In The Mix|Mix|DE|128"
+ stream_data[110]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[111]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[112]: "|* Normale Version *|-|-|0"
+ stream_data[113]: "|* Version: v3.66 *|-|-|0"
+ stream_data[114]: "|* ETS2MP.de *|-|-|0"
 }									
 									
 }									
