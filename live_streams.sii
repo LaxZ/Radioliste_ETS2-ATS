@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 115
+ stream_data: 114
  stream_data[0]: "|* Erstellt von LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://streamplus8.leonex.de:21788/|Euro Transport Radio|Mix|DE|128"
@@ -114,9 +114,8 @@ live_stream_def : .live_streams {
  stream_data[109]: "http://xapp2278162432c40000.f.l.i.lb.core-cdn.net/40000mb/live/app2278162432/w2288975873/live_de_128.mp3|89.0 RTL In The Mix|Mix|DE|128"
  stream_data[110]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[111]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[112]: "|* Normale Version *|-|-|0"
- stream_data[113]: "|* Version: v3.66 *|-|-|0"
- stream_data[114]: "|* ETS2MP.de *|-|-|0"
+ stream_data[112]: "|* Version: v3.66 *|-|-|0"
+ stream_data[113]: "|* ETS2MP.de *|-|-|0"
 }									
 									
 }									
