@@ -5,13 +5,12 @@ INFORMATIONEN UND ANLEITUNG ZUM INSTALLIEREN
 DEUTSCH
 ==============
 
-
 Frage: Wie füge ich die neuen Radiostreams ein?
 
 Antwort: Gehe in das folgende Verzeichnis: C:\Users\Benutzer\Documents\Euro Truck Simulator 2.
-Dort finden Sie eine live_streams.sii. Die tauschen Sie aus mit der, die hier mit beigelegt war/ist. Einfach kopieren und dann ersetzen.
+Dort findest du eine live_streams.sii. Die tauscht du mit meiner hier einfach um. Kopiere meine und ersetze diese dann mit der vorhandenen.
 
-Viel spaß mit den neuen Radiostreams. Haben Sie weitere Radio Vorschläge? oder insgesamt Vorschläge? Dann schreiben sie diese in meinen Thread. Link finden Sie etwas weiter unten.
+Du hast Radio Vorschläge? Sende mir eine PN über www.ets2mp.de an LaxZ oder an Email: support(at)laxz(dot)de
 
 
 
@@ -23,7 +22,6 @@ Question: How do I add the file?
 Answer: Go to the following directory: C:\Users\Benutzer\Documents\Euro Truck Simulator 2.
 There you will find a live_streams.sii. Simply copy and then replace it.
 
-Have fun with the new radio streams.
 
 
 EMPFOHLENE LINKS
