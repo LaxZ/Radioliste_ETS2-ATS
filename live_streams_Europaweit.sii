@@ -5,7 +5,7 @@ live_stream_def : .live_streams {
  stream_data[0]: "|* Erstellt von LaxZ *|-|-|0"
  stream_data[1]: "|[+++++ Deutschland +++++]|-|-|0"
  stream_data[2]: "http://95.81.155.20/7641/nrj_124709.mp3|Energy Berlin|Top40+Pop|DE|128"
- stream_data[3]: "http://80.237.158.40/890rtl-128.mp3|89.0 RTL|Mix|DE|128"
+ stream_data[3]: "http://xapp2278162432c40000.f.l.i.lb.core-cdn.net/40000mb/live/app2278162432/w2288975872/live_de_128.mp3|89.0 RTL|Mix|DE|128"
  stream_data[4]: "http://mp3.ffh.de/radioffh/hqlivestream.mp3|Hitrado FFH|Mix|DE|128"
  stream_data[5]: "http://mp3channels.webradio.antenne.de/antenne|Antenne Bayern|Mix|DE|128"
  stream_data[6]: "http://edge.live.mp3.mdn.newmedia.nacamar.net/radioffn/livestream.mp3|FFN|Mix|DE|128"
