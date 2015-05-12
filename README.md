@@ -144,3 +144,14 @@ gefunden habt, bitte ich euch dies zu melden. Am besten per PN oder im Thread. E
 - minor fixes
 
 
+++++ 12.05.2015 ++++ v3.70
+
+--- Europaweite Version:
+- Fixed some radiostreams
+
+--- Normale Version:
+- Radio Paloma added
+- Radio Aktiv added
+- minor fixes
+
+
