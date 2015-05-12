@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 106
+ stream_data: 105
  stream_data[0]: "|* Erstellt von LaxZ *|-|-|0"
  stream_data[1]: "|[+++++ Deutschland +++++]|-|-|0"
  stream_data[2]: "http://95.81.155.20/7641/nrj_124709.mp3|Energy Berlin|Top40+Pop|DE|128"
@@ -105,9 +105,8 @@ live_stream_def : .live_streams {
  stream_data[100]: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p|BBC Radio 1|Top40|UK|128"
  stream_data[101]: "|****** Informationen ******|-|-|0"
  stream_data[102]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[103]: "|* Europaweite Version *|-|-|0"
- stream_data[104]: "|* Version: v1.2eu *|-|-|0"
- stream_data[105]: "|* ETS2MP.de *|-|-|0"
+ stream_data[103]: "|* Version: v1.23 *|-|-|0"
+ stream_data[104]: "|* ETS2MP.de *|-|-|0"
 }									
 									
 }									
