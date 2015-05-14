@@ -155,3 +155,12 @@ gefunden habt, bitte ich euch dies zu melden. Am besten per PN oder im Thread. E
 - minor fixes
 
 
+++++ 14.05.2015 ++++ v3.72
+
+--- Europaweite Version:
+- Keine Änderungen
+
+--- Normale Version:
+- HR4, HR3 fixed
+
+
