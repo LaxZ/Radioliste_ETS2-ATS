@@ -164,3 +164,12 @@ gefunden habt, bitte ich euch dies zu melden. Am besten per PN oder im Thread. E
 - HR4, HR3 fixed
 
 
+++++ 24.05.2015 ++++ v3.73
+
+--- Europaweite Version:
+- Keine Änderungen
+
+--- Normale Version:
+- RR Radio added (Road Rider v.GmbH)
+- Version fix
+
