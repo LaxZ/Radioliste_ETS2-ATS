@@ -15,7 +15,7 @@ Dort findest du eine live_streams.sii. Die tauscht du mit meiner hier einfach um
 ENGLISH
 =====
 
-Question: How do i add the file?
+Question: How do I install this file?
 
 Answer: Go to the following directory: C:\Users\Benutzer\Documents\Euro Truck Simulator 2.
 There you will find a live_streams.sii. Simply copy and then replace it.
