@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 108
+ stream_data: 109
  stream_data[0]: "|* Erstellt von LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://streamplus8.leonex.de:21788/|Euro Transport Radio|Mix|DE|128"
@@ -62,6 +62,7 @@ live_stream_def : .live_streams {
  stream_data[57]: "http://live.radio24.ch/radio24|Radio 24 - Schweiz|Mix|DE|128"
  stream_data[58]: "http://streams.ir-media-tec.com:80/bbradio-mobile.mp3|BB Radio - Brandenburg|Mix|DE|96"
  stream_data[59]: "http://xapp2023227392c40000.f.l.i.lb.core-cdn.net/40000mb/live/app2023227392/w2075033608/live_de_128.mp3|Antenne Thüringen - Thüringen|Mix|DE|128"
+ stream_data[0]: "http://stream.radiowmw.de:8000/wmw128k|Radio WMW - Münster|Mix|DE|128"
  stream_data[60]: "|[+++++ Internet Radios +++++]|-|-|0"
  stream_data[61]: "http://80.237.157.79/iloveradio1.mp3|ILoveRadio|Charts+Partyhits|DE|128"
  stream_data[62]: "http://stream02.iloveradio.de/iloveradio2.mp3|ILoveRadio Dance|EDM+DJMIX|DE|128"
