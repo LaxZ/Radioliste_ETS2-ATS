@@ -19,3 +19,10 @@ Question: How do I install this file?
 
 Answer: Go to the following directory: C:\Users\Benutzer\Documents\Euro Truck Simulator 2.
 There you will find a live_streams.sii. Simply copy and then replace it.
+
+
+
+INFOS
+=====
+
+Radioliste hier: http://laxz.ets2mp.ovh/ets2radioliste.html
