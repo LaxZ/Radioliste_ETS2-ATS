@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 127
+ stream_data: 126
  stream_data[0]: "|* Erstellt von LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://streamplus8.leonex.de:21788/|Euro Transport Radio|Mix|DE|128"
@@ -124,10 +124,10 @@ live_stream_def : .live_streams {
  stream_data[119]: "http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3|FFH Soundtrack|Filmmusik|DE|128"
  stream_data[120]: "http://mp3.ffh.de/fs_ffhchannels/hq90er.mp3|FFH Die 90er|90er|DE|128"
  stream_data[121]: "http://stream.bmr-radio.de:80|Ballermann Radio Party|Partymix|DE|128"
- stream_data[123]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[124]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[125]: "|* Version: v3.85 *|-|-|0"
- stream_data[126]: "|* ETS2MP.de *|-|-|0"
+ stream_data[122]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[123]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[124]: "|* Version: v3.85 *|-|-|0"
+ stream_data[125]: "|* ETS2MP.de *|-|-|0"
 }									
 									
 }									
