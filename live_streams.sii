@@ -1,11 +1,11 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 122
+ stream_data: 123
  stream_data[0]: "|* Erstellt von LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://streamplus8.leonex.de:21788/|Euro Transport Radio|Mix|DE|128"
- stream_data[3]: "http://stream3.laut.fm:8080/simliveradio|SimLiveRadio|Mix|DE|128"
+ stream_data[3]: "http://xapp2278162432c40000.f.l.i.lb.core-cdn.net/40000mb/live/app2278162432/w2288975873/live_de_128.mp3|89.0 RTL In the Mix|Dance|DE|128"
  stream_data[4]: "http://radio.eurotruckradio.com:8002/stream.mp3|Euro Truck Radio|Mix|UK|128"
  stream_data[5]: "|[+++++ UKW Radios +++++]|-|-|0"
  stream_data[6]: "http://ndr-ndr2-nds-mp3.akacast.akamaistream.net/7/400/252763/v1/gnl.akacast.akamaistream.net/ndr_ndr2_nds_mp3|NDR 2 - Hamburg|Mix|DE|128"
@@ -120,10 +120,11 @@ live_stream_def : .live_streams {
  stream_data[115]: "http://mp3channels.webradio.antenne.de/90er-hits|Antenne Bayern 90er|90er|DE|128"
  stream_data[116]: "http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3|FFH Soundtrack|Filmmusik|DE|128"
  stream_data[117]: "http://mp3.ffh.de/fs_ffhchannels/hq90er.mp3|FFH Die 90er|90er|DE|128"
- stream_data[118]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[119]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[120]: "|* Version: v3.80 *|-|-|0"
- stream_data[121]: "|* ETS2MP.de *|-|-|0"
+ stream_data[118]: "http://stream.bmr-radio.de:80|Ballermann Radio Party|Partymix|DE|128"
+ stream_data[119]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[120]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[121]: "|* Version: v3.81 *|-|-|0"
+ stream_data[122]: "|* ETS2MP.de *|-|-|0"
 }									
 									
 }									
