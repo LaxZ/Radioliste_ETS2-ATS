@@ -26,3 +26,6 @@ INFOS
 =====
 
 Radioliste hier: http://laxz.ets2mp.ovh/ets2radioliste.html
+
+Die Anwendung namens ETS2RadioUpdater ist ein sozusagener Auto Updater. Wenn ihr nicht immer die Seite aufrufen wollt könnt ihr die Anwendung starten und diese guckt dann,
+ob es eine neue Version meiner Liste gibt.
