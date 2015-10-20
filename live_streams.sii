@@ -126,7 +126,7 @@ live_stream_def : .live_streams {
  stream_data[121]: "http://stream.bmr-radio.de:80|Ballermann Radio Party|Partymix|DE|128"
  stream_data[122]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[123]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[124]: "|* Version: v3.85 *|-|-|0"
+ stream_data[124]: "|* Version: v3.86 *|-|-|0"
  stream_data[125]: "|* ETS2MP.de *|-|-|0"
 }									
 									
