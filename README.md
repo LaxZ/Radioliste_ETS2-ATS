@@ -25,7 +25,4 @@ There you will find a live_streams.sii. Simply copy and then replace it.
 INFOS
 =====
 
-Radioliste hier: http://laxz.ets2mp.ovh/ets2radioliste.html
-
-Die Anwendung namens ETS2RadioUpdater ist ein sozusagener Auto Updater. Wenn ihr nicht immer die Seite aufrufen wollt könnt ihr die Anwendung starten und diese guckt dann,
-ob es eine neue Version meiner Liste gibt.
+Ihr wollt eure eigenen Radios drinne haben? Schreibt mich über dem ETS2MP.com Forum an.
