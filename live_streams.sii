@@ -13,7 +13,7 @@ live_stream_def : .live_streams {
  stream_data[8]: "http://ndr-n-joy-mp3.akacast.akamaistream.net/7/665/273752/v1/gnl.akacast.akamaistream.net/ndr_n-joy_mp3|N-Joy - Hamburg|Dance + Top 40|DE|128"
  stream_data[9]: "http://62.75.154.4:80/|Alster Radio - Hamburg|Mix|DE|128"
  stream_data[10]: "http://ndr-ndr1-han-mp3.akacast.akamaistream.net/7/807/273766/v1/gnl.akacast.akamaistream.net/ndr_ndr1_han_mp3|NDR 1 - Niedersachsen|Schlager|DE|128"
- stream_data[11]: "http://ads.radioffn.c.nmdn.net/ps-radioffn/livestream.mp3|FFN - Niedersachsen|Mix|DE|128"
+ stream_data[11]: "http://95.141.29.3/ffn_192|FFN - Niedersachsen|Mix|DE|128"
  stream_data[12]: "http://188.94.97.91/radio21.mp3|Radio 21 - Niedersachsen|Rock|DE|128"
  stream_data[13]: "http://92.51.133.241:8000|Radio Aktiv - Niedersachsen|Mix|DE|128"
  stream_data[14]: "http://antenne-nds.hoerradar.de/mp3-128_antenne-nds|Antenne NDS - Niedersachsen|Mix|DE|128"
