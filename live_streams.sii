@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 131
+ stream_data: 132
  stream_data[0]: "|* Created by LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://truckersfm.com:8005/stream|Truckers FM|Mix|EN|128"
@@ -129,10 +129,11 @@ live_stream_def : .live_streams {
  stream_data[124]: "http://stream.bmr-radio.de:80|Ballermann Radio Party|Partymix|DE|128"
  stream_data[125]: "http://stream.antenne.com/antenne-nds-event01/mp3-128|Antenne Niedersachsen X-MAS|Christmas|DE|128"
  stream_data[126]: "http://relay3.181.fm:8050|181.FM 90s Country|Country|US|128"
- stream_data[127]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[128]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[129]: "|* Version: v3.91 *|-|-|0"
- stream_data[130]: "|* ETS2MP.com - D&K *|-|-|0"
+ stream_data[127]: "http://stream.laut.fm/hoerspiel|Hörspiel Radio|Hörspiel|DE|128"
+ stream_data[128]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[129]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[130]: "|* Version: v3.91 *|-|-|0"
+ stream_data[131]: "|* ETS2MP.com - D&K *|-|-|0"
 }									
 									
 }									
