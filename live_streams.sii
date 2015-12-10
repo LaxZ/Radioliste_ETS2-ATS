@@ -2,7 +2,7 @@ SiiNunit
 {
 live_stream_def : .live_streams {
  stream_data: 131
- stream_data[0]: "|* Erstellt von LaxZ *|-|-|0"
+ stream_data[0]: "|* Created by LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://truckersfm.com:8005/stream|Truckers FM|Mix|EN|128"
  stream_data[3]: "http://streaming.radionomy.com/TruckRadioNonstop|TruckRadio Nonstop|Mix|DE|128"
@@ -35,7 +35,7 @@ live_stream_def : .live_streams {
  stream_data[30]: "http://bigfm.fmstreams.de/bigfm-mp3-96|BigFM - Baden-Wuerttemberg|Top 40|DE|96"
  stream_data[31]: "http://217.151.154.57/stream1/livestream.mp3|Radio 7 - Baden-Wuerttemberg|Mix|DE|128"
  stream_data[32]: "http://scast.regenbogen.de/live|Radio Regenbogen - Baden-Wuerttemberg|Mix|DE|128"
- stream_data[33]: "http://1live.akacast.akamaistream.net/7/706/119434/v1/gnl.akacast.akamaistream.net/1live|EinsLive - Nordrhein-Westfalen|Top 40|DE|128"
+ stream_data[33]: "http://1live.akacast.akamaistream.net/7/706/119434/v1/gnl.akacast.akamaistream.net/1live|1Live - Nordrhein-Westfalen|Top 40|DE|128"
  stream_data[34]: "http://wdr-mp3-m-wdr2-koeln.akacast.akamaistream.net/7/812/119456/v1/gnl.akacast.akamaistream.net/wdr-mp3-m-wdr2-koeln|WDR 2 - Nordrhein-Westfalen|Mix|DE|128"
  stream_data[35]: "http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioherford/livestream.mp3|Radio Herford - Nordrhein-Westfalen|Mix|DE|128"
  stream_data[36]: "http://skyserver5.skydisc.net:8000|Das Hitradio - Nordrhein-Westfalen|Mix|DE|128"
@@ -110,7 +110,7 @@ live_stream_def : .live_streams {
  stream_data[105]: "http://tunein01.t4e.dj/club/dsl/mp3|Techno4Ever.FM Club|House+Trance|DE|128"
  stream_data[106]: "http://tunein01.t4e.dj/hard/dsl/mp3|Techno4Ever.FM Hard|Hardstyle|DE|128"
  stream_data[107]: "http://46.165.233.197:80|BlackBeats.FM|HipHop|DE|128"
- stream_data[108]: "http://1live-diggi.akacast.akamaistream.net/7/965/119435/v1/gnl.akacast.akamaistream.net/1live-diggi|EinsLive Diggi|Top 40|DE|128"
+ stream_data[108]: "http://1live-diggi.akacast.akamaistream.net/7/965/119435/v1/gnl.akacast.akamaistream.net/1live-diggi|1Live Diggi|Top 40|DE|128"
  stream_data[109]: "http://54house.stream-balancer.de:80|54House.FM|House|DE|128"
  stream_data[110]: "http://87.230.53.43:8008|Star FM Classic|Rock Classic|DE|128"
  stream_data[111]: "http://85.25.209.152:8400|Star FM Blues|Blues|DE|128"
