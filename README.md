@@ -1,4 +1,4 @@
-INFORMATIONEN UND ANLEITUNG ZUM INSTALLIEREN
+Informationen und Anleitung zum installieren:
 =============
 
 
@@ -26,3 +26,4 @@ INFOS
 =====
 
 Ihr wollt eure eigenen Radios drinne haben? Schreibt mich über dem ETS2MP.com Forum an.
+Oder erstellt hier ein Pull-Request und fügt sie selber ein :)
