@@ -46,7 +46,7 @@
 46. HR 4
 47. FFH
 48. RPR 1
-49. Hitradio Ö3
+49. Hitradio Ã–3
 50. Antenne Salzburg
 51. Kronehit
 52. RSA
@@ -56,7 +56,7 @@
 56. Radio Nora
 57. Radio 24
 58. BB Radio
-59. Antenne Thüringen
+59. Antenne ThÃ¼ringen
 60. Radio WMW
 61-70. Alle ILoveRadio Radios
 71. Top100Station
@@ -103,5 +103,6 @@
 122. Ballermann Radio
 123. Antenne Niedersachsen X-MAS
 124. 181.FM 90s Country
+125. HÃ¶rspiel Radio
 
 Radio Liste created by LaxZ with Visual Studio 2015
