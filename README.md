@@ -2,7 +2,7 @@ Informationen und Anleitung zum installieren:
 =============
 
 
-DEUTSCH
+Deutsch:
 ==============
 
 Frage: Wie füge ich die neuen Radiostreams ein?
@@ -12,7 +12,7 @@ Dort findest du eine live_streams.sii. Die tauscht du mit meiner hier einfach um
 
 
 
-ENGLISH
+English:
 =====
 
 Question: How to install the file?
@@ -22,8 +22,8 @@ There you will find a live_streams.sii. Simply copy and then replace it.
 
 
 
-INFOS
+Informationen:
 =====
 
-Ihr wollt eure eigenen Radios drinne haben? Schreibt mich über dem ETS2MP.com Forum an.
-Oder erstellt hier ein Pull-Request und fügt sie selber ein :)
+Ihr wollt eure eigenen Radios drinne haben? Schreibt mich über dem ETS2MP.com Forum an oder erstellt hier ein Pull-Request und fügt sie selber ein.
+
