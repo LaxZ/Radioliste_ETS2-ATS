@@ -108,5 +108,7 @@
 127. Alternative FM
 128. Rock Radio 90s Rock
 129. Rock Radio 80s Rock
+130. FFH Rock
+131. FFH Party
 
 Radio Liste created by LaxZ with Visual Studio 2015
