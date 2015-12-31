@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 136
+ stream_data: 138
  stream_data[0]: "|* Created by LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://radio.truckers.fm/stream|Truckers FM|Mix|EN|128"
@@ -126,18 +126,20 @@ live_stream_def : .live_streams {
  stream_data[121]: "http://mp3channels.webradio.antenne.de/90er-hits|Antenne Bayern 90er|90er|DE|128"
  stream_data[122]: "http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3|FFH Soundtrack|Filmmusik|DE|128"
  stream_data[123]: "http://mp3.ffh.de/fs_ffhchannels/hq90er.mp3|FFH Die 90er|90er|DE|128"
- stream_data[124]: "http://stream.bmr-radio.de:80|Ballermann Radio Party|Partymix|DE|128"
- stream_data[125]: "http://stream.antenne.com/antenne-nds-event01/mp3-128|Antenne Niedersachsen X-MAS|Christmas|DE|128"
- stream_data[126]: "http://relay3.181.fm:8050|181.FM 90s Country|Country|US|128"
- stream_data[127]: "http://relay1.181.fm:8028|181.FM Rock 40|Rock|US|128"
- stream_data[128]: "http://stream.laut.fm/hoerspiel|Hörspiel Radio|Hörspiel|DE|128"
- stream_data[129]: "http://pub9am.rockradio.com:80/rr_90srock|ROCK Radio 90s Rock|Rock|UK|128"
- stream_data[130]: "http://pub10am.rockradio.com:80/rr_80srock|ROCK Radio 80s Rock|Rock|UK|128"
- stream_data[131]: "http://live.alternativefm.de/afm_128.mp3|Alternative FM|Rock|DE|128"
- stream_data[132]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[133]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[134]: "|* Version: v3.97 *|-|-|0"
- stream_data[135]: "|* ETS2MP.com *|-|-|0"
+ stream_data[124]: "http://mp3.ffh.de/ffhchannels/hqparty.mp3|FFH Party|Partyhits|DE|128"
+ stream_data[125]: "http://mp3.ffh.de/ffhchannels/hqrock.mp3|FFH Rock|Rock|DE|128"
+ stream_data[126]: "http://stream.bmr-radio.de:80|Ballermann Radio Party|Partymix|DE|128"
+ stream_data[127]: "http://stream.antenne.com/antenne-nds-event01/mp3-128|Antenne Niedersachsen X-MAS|Christmas|DE|128"
+ stream_data[128]: "http://relay3.181.fm:8050|181.FM 90s Country|Country|US|128"
+ stream_data[129]: "http://relay1.181.fm:8028|181.FM Rock 40|Rock|US|128"
+ stream_data[130]: "http://stream.laut.fm/hoerspiel|Hörspiel Radio|Hörspiel|DE|128"
+ stream_data[131]: "http://pub9am.rockradio.com:80/rr_90srock|ROCK Radio 90s Rock|Rock|UK|128"
+ stream_data[132]: "http://pub10am.rockradio.com:80/rr_80srock|ROCK Radio 80s Rock|Rock|UK|128"
+ stream_data[133]: "http://live.alternativefm.de/afm_128.mp3|Alternative FM|Rock|DE|128"
+ stream_data[134]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[135]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[136]: "|* Version: v3.99 *|-|-|0"
+ stream_data[137]: "|* ETS2MP.com *|-|-|0"
 }									
 									
 }									
