@@ -76,7 +76,7 @@ live_stream_def : .live_streams {
  stream_data[71]: "http://stream09.iloveradio.de/iloveradio9.mp3|ILoveRadio Bravo Charts|Charts|DE|128"
  stream_data[72]: "http://stream07.iloveradio.de/iloveradio7.mp3|ILoveRadio About Berlin|Chillhouse|DE|128"
  stream_data[73]: "http://80.237.152.83/top100station.mp3|Top100Station|Top 40|DE|128"
- stream_data[74]: "http://stream.hoerradar.de/sunshinelive-mp3-128|Sunshine Live|Techno+Dance|DE|128"
+ stream_data[74]: "http://stream.sunshine-live.de/hq/mp3-128|Sunshine Live|Techno+Dance|DE|128"
  stream_data[75]: "http://195.27.154.156/7/246/142136/v1/gnl.akacast.akamaistream.net/hr-mp3-m-youfm|You FM|Pop+Rock+Black|DE|128"
  stream_data[76]: "http://79.141.174.206:21000|RauteMusik Dubstep/Drumstep|Dubstep+Drumstep|DE|128"
  stream_data[77]: "http://193.34.51.158|RauteMusik Country|Country|DE|128"
