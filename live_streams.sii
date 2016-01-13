@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 138
+ stream_data: 139
  stream_data[0]: "|* Created by LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://radio.truckers.fm/|Truckers FM|Mix|EN|128"
@@ -136,10 +136,11 @@ live_stream_def : .live_streams {
  stream_data[131]: "http://pub9am.rockradio.com:80/rr_90srock|ROCK Radio 90s Rock|Rock|UK|128"
  stream_data[132]: "http://pub10am.rockradio.com:80/rr_80srock|ROCK Radio 80s Rock|Rock|UK|128"
  stream_data[133]: "http://live.alternativefm.de/afm_128.mp3|Alternative FM|Rock|DE|128"
- stream_data[134]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[135]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[136]: "|* Version: v3.99 *|-|-|0"
- stream_data[137]: "|* ETS2MP.com *|-|-|0"
+ stream_data[134]: "http://mp3channels.webradio.antenne.de:80/rockantenne|Rock Antenne|Rock|DE|128"
+ stream_data[135]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[136]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[137]: "|* Version: v3.99 *|-|-|0"
+ stream_data[138]: "|* ETS2MP.com *|-|-|0"
 }									
 									
 }									
