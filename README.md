@@ -27,3 +27,4 @@ Informationen:
 
 Ihr wollt eure eigenen Radios drinne haben? Schreibt mich über dem ETS2MP.com Forum an oder erstellt hier ein Pull-Request und fügt sie selber ein.
 
+[Alle Radios die bereits eingefügt sind](https://github.com/LaxZ/Radiostreams-ETS2/blob/master/AlleRadios.txt)
