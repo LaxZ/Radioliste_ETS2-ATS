@@ -6,7 +6,7 @@ live_stream_def : .live_streams {
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://radio.truckers.fm/|Truckers FM|Mix|EN|128"
  stream_data[3]: "http://streaming.radionomy.com/TruckRadioNonstop|TruckRadio Nonstop|Mix|DE|128"
- stream_data[4]: "http://radio.eurotruckradio.com:8002/stream.mp3|Euro Truck Radio|Mix|UK|128"
+ stream_data[4]: "http://radio.eurotruckradio.com:8002/stream.mp3|EuroTruckRadio|Mix|UK|128"
  stream_data[5]: "http://stream3.laut.fm/simliveradio|SimLiveRadio|Mix|DE|128"
  stream_data[6]: "|[+++++ UKW Radios +++++]|-|-|0"
  stream_data[7]: "http://ndr-ndr2-nds-mp3.akacast.akamaistream.net/7/400/252763/v1/gnl.akacast.akamaistream.net/ndr_ndr2_nds_mp3|NDR 2 - Hamburg|Mix|DE|128"
