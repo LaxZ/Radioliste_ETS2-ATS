@@ -141,7 +141,7 @@ live_stream_def : .live_streams {
  stream_data[136]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[137]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
  stream_data[138]: "|* Version: v4.00 *|-|-|0"
- stream_data[139]: "|* ETS2MP.com *|-|-|0"
+ stream_data[139]: "|* LaxZ.de *|-|-|0"
 }									
 									
 }									
