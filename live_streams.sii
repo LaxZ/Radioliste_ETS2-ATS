@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 140
+ stream_data: 141
  stream_data[0]: "|* Created by LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://radio.truckers.fm/|Truckers FM|Mix|EN|128"
@@ -138,10 +138,11 @@ live_stream_def : .live_streams {
  stream_data[133]: "http://pub9am.rockradio.com:80/rr_90srock|ROCK Radio 90s Rock|Rock|UK|128"
  stream_data[134]: "http://pub10am.rockradio.com:80/rr_80srock|ROCK Radio 80s Rock|Rock|UK|128"
  stream_data[135]: "http://live.alternativefm.de/afm_128.mp3|Alternative FM|Rock|DE|128"
- stream_data[136]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[137]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[138]: "|* Version: v4.00 *|-|-|0"
- stream_data[139]: "|* LaxZ.de *|-|-|0"
+ stream_data[136]: "http://stream3.laut.fm/bestof2015|Best of 2015|Alles|DE|128"
+ stream_data[137]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[138]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[139]: "|* Version: v4.02 *|-|-|0"
+ stream_data[140]: "|* LaxZ.de *|-|-|0"
 }									
 									
 }									
