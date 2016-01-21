@@ -25,6 +25,7 @@ There you will find a live_streams.sii. Simply copy and then replace it.
 Informationen:
 =====
 
-Ihr wollt eure eigenen Radios drinne haben? Schreibt mich über dem ETS2MP.com Forum an oder erstellt hier ein Pull-Request und fügt sie selber ein.
+Ihr wollt eure eigenen Radios drinne haben? Schreibt mich über dem ETS2MP.com Forum an oder erstellt hier ein Pull-Request und fügt sie selber ein - Oder schickt mir eine Mail an contact(at)laxz(dot)de
 
 [Alle Radios die bereits eingefügt sind](https://github.com/LaxZ/Radiostreams-ETS2/blob/master/AlleRadios.txt)
+[Website](http://laxz.de/ets2radiostreams)
