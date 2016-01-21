@@ -113,5 +113,9 @@
 132. Rock Antenne
 133. Radio Lippewelle
 134. Best of 2015
+135. RTL Radio
+136. Radio 1
+137. SRF 3
+138. Energy Bern
 
 Radio Liste created by LaxZ with Visual Studio 2015
