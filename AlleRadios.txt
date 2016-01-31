@@ -104,18 +104,19 @@
 123. Antenne Niedersachsen X-MAS
 124. 181.FM 90s Country
 125. 181.FM Rock 40
-126. Hörspiel Radio
-127. Alternative FM
-128. Rock Radio 90s Rock
-129. Rock Radio 80s Rock
-130. FFH Rock
-131. FFH Party
-132. Rock Antenne
-133. Radio Lippewelle
-134. Best of 2015
-135. RTL Radio
-136. Radio 1
-137. SRF 3
-138. Energy Bern
+126. 181.FM The Eagle
+127. 181.FM Classic Hits
+128. 181.FM 90s Dance
+129. Hörspiel Radio
+130. Alternative FM
+131. FFH Rock
+132. FFH Party
+133. Rock Antenne
+134. Radio Lippewelle
+135. Best of 2015
+136. RTL Radio
+137. Radio 1
+138. SRF 3
+139. Energy Bern
 
 Radio Liste created by LaxZ with Visual Studio 2015
