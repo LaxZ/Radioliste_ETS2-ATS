@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 145
+ stream_data: 146
  stream_data[0]: "|* Created by LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://radio.truckers.fm/|Truckers FM|Mix|UK|128"
@@ -140,13 +140,14 @@ live_stream_def : .live_streams {
  stream_data[135]: "http://icyrelay.181.fm/181-rock40_128k.mp3|181.FM Rock 40|Rock|US|128"
  stream_data[136]: "http://icyrelay.181.fm/181-greatoldies_128k.mp3|181.FM Classic Hits|Oldies|US|128"
  stream_data[137]: "http://icyrelay.181.fm/181-eagle_128k.mp3|181.FM The Eagle|Rock|US|128"
- stream_data[138]: "http://stream.laut.fm/hoerspiel|Hörspiel Radio|Hörspiel|DE|128"
- stream_data[139]: "http://live.alternativefm.de/afm_128.mp3|Alternative FM|Rock|DE|128"
- stream_data[140]: "http://stream3.laut.fm/bestof2015|Best of 2015|Alles|DE|128"
- stream_data[141]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[142]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[143]: "|* Version: v4.15 *|-|-|0"
- stream_data[144]: "|* LaxZ.de *|-|-|0"
+ stream_data[138]: "http://icyrelay.181.fm/181-90sdance_128k.mp3|181.FM 90s Dance|Dance|US|128"
+ stream_data[139]: "http://stream.laut.fm/hoerspiel|Hörspiel Radio|Hörspiel|DE|128"
+ stream_data[140]: "http://live.alternativefm.de/afm_128.mp3|Alternative FM|Rock|DE|128"
+ stream_data[141]: "http://stream3.laut.fm/bestof2015|Best of 2015|Alles|DE|128"
+ stream_data[142]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[143]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[144]: "|* Version: v4.16 *|-|-|0"
+ stream_data[145]: "|* LaxZ.de *|-|-|0"
 }									
 									
 }									
