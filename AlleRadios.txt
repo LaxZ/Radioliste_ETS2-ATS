@@ -103,7 +103,7 @@ Custom Radiostreams for ETS2 & ATS - created by LaxZ
 120. FFH Soundtrack
 121. FFH Die 90er
 122. Ballermann Radio
-123. Antenne Niedersachsen X-MAS
+123. Martini In The Morning
 124. 181.FM 90s Country
 125. 181.FM Rock 40
 126. 181.FM The Eagle
@@ -120,5 +120,11 @@ Custom Radiostreams for ETS2 & ATS - created by LaxZ
 137. Radio 1
 138. SRF 3
 139. Energy Bern
+140. ILoveBigFM Dance
+141. ILoveBigFM Mashup
+142. ILoveBigFM Groove Night
+143. ILoveBigFM HipHop
+144. ILoveBigFM Nitrox
+145. ILoveBigFM Urban Club Beats
 
 Radio Liste created by LaxZ with Visual Studio 2015
