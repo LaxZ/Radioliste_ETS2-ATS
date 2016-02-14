@@ -2,7 +2,7 @@ Custom Radiostreams for ETS2 & ATS - created by LaxZ
 
 1. Truckers FM
 2. TruckRadio Nonstop
-3. Euro Truck Radio
+3. TruckSimRadio
 4. Sim Live Radio
 5. NDR 2
 6. N-Joy
@@ -40,7 +40,7 @@ Custom Radiostreams for ETS2 & ATS - created by LaxZ
 38. Antenne Bayern
 39. Antenne Bayern Classic Rock
 40. Bayern 3
-41. Hitrado RT1
+41. Hitrado RT1 // Gibts nicht mehr-entfernt
 42. Radio Fantasy 93.4
 43. Radio Gong 106.9
 44. Radio Gong 96.3
@@ -126,5 +126,9 @@ Custom Radiostreams for ETS2 & ATS - created by LaxZ
 143. ILoveBigFM HipHop
 144. ILoveBigFM Nitrox
 145. ILoveBigFM Urban Club Beats
+146. Radio Fritz
+147. Radio DeinFM
+148. Radio Pilatus
+149. Sport1 FM
 
 Radio Liste created by LaxZ with Visual Studio 2015
