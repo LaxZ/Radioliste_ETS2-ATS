@@ -152,7 +152,7 @@ live_stream_def : .live_streams {
  stream_data[147]: "http://live.alternativefm.de/afm_128.mp3|Alternative FM|Rock|DE|128"
  stream_data[148]: "http://stream3.laut.fm/bestof2015|Best of 2015|Various|DE|128"
  stream_data[149]: "http://208.92.53.76:443/SPORT1FM_24_7.mp3|Sport1 FM|Sport|DE|128"
- stream_Data[150]: "http://www.warp-radio.com:8000/warp-320.mp3|WARP Radio|Oldies|US|320"
+ stream_data[150]: "http://www.warp-radio.com:8000/warp-320.mp3|WARP Radio|Oldies|US|320"
  stream_data[151]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[152]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
  stream_data[153]: "|* Version: v4.34 *|-|-|0"
