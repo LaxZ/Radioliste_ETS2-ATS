@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 155
+ stream_data: 162
  stream_data[0]: "|* Created by LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://radio.truckers.fm/|Truckers FM|Various|UK|128"
@@ -153,10 +153,17 @@ live_stream_def : .live_streams {
  stream_data[148]: "http://stream3.laut.fm/bestof2015|Best of 2015|Various|DE|128"
  stream_data[149]: "http://208.92.53.76:443/SPORT1FM_24_7.mp3|Sport1 FM|Sport|DE|128"
  stream_data[150]: "http://www.warp-radio.com:8000/warp-320.mp3|WARP Radio|Oldies|US|320"
- stream_data[151]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[152]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[153]: "|* Version: v4.34 *|-|-|0"
- stream_data[154]: "|* LaxZ.de *|-|-|0"
+ stream_data[151]: "http://streams.radiobob.de/bob-live/mp3-192/mediaplayer|Radio Bob|Rock|DE|128"
+ stream_data[152]: "http://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer|Radio Bob Classic|Rock|DE|128"
+ stream_data[153]: "http://streams.radiobob.de/bob-deutsch/mp3-192/mediaplayer|Radio Bob Deutschrock|Rock|DE|128"
+ stream_data[154]: "http://streams.radiobob.de/bob-festival/mp3-192/mediaplayer|Radio Bob Festival|Rock|DE|128"
+ stream_data[155]: "http://streams.radiobob.de/bob-bestofrock/mp3-192/mediaplayer|Radio Bob Best of|Rock|DE|128"
+ stream_data[156]: "http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer|Radio Bob 80er|Rock|DE|128"
+ stream_data[157]: "http://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer|Radio Bob 90er|Rock|DE|128"
+ stream_data[158]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[159]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[160]: "|* Version: v4.5 *|-|-|0"
+ stream_data[161]: "|* LaxZ.de *|-|-|0"
 }
 
 }
