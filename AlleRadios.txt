@@ -130,5 +130,7 @@ Custom Radiostreams for ETS2 & ATS - created by LaxZ
 147. Radio DeinFM
 148. Radio Pilatus
 149. Sport1 FM
+150. Warp Radio
+151. Radio Bob (meisten streams)
 
 Radio Liste created by LaxZ with Visual Studio 2015
