@@ -162,7 +162,7 @@ live_stream_def : .live_streams {
  stream_data[157]: "http://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer|Radio Bob 90er|Rock|DE|128"
  stream_data[158]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[159]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[160]: "|* Version: v4.5 *|-|-|0"
+ stream_data[160]: "|* Version: 4.5 *|-|-|0"
  stream_data[161]: "|* LaxZ.de *|-|-|0"
 }
 
