@@ -81,7 +81,7 @@ Custom Radiostreams for ETS2 & ATS - created by LaxZ
 96. HouseTime
 97. HardBase
 98. TranceBase
-99. Trance.FM
+99. 1Mix Trance Radio
 100. Q-Dance Radio
 101. PulsRadio
 102-104. Alle Techno4Ever Radios
