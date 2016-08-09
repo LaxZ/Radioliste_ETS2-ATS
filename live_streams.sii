@@ -166,7 +166,7 @@ live_stream_def : .live_streams {
  stream_data[161]: "http://stream.1a-webradio.de/90er/mp3-128/surfmusik-1a/|SAW 1A 90er|90s|DE|128"
  stream_data[162]: "http://stream.1a-webradio.de/2000er/mp3-128/surfmusik-1a/|SAW 1A 2000er|2000s|DE|128"
  stream_data[163]: "http://stream.1a-webradio.de/rock/mp3-128/surfmusik-1a/|SAW 1A Rock|Rock|DE|128"
- stream_data[164]: "http://stream.1a-webradio.de/party/mp3-128/surfmusik-1a/|SAW 1A Party|House|DE|128"
+ stream_data[164]: "http://stream.1a-webradio.de/party/mp3-128/surfmusik-1a/|SAW 1A Party|Party|DE|128"
  stream_data[165]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[166]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
  stream_data[167]: "|* Version: 5.1 *|-|-|0"
