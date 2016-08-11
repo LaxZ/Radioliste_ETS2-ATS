@@ -1,8 +1,8 @@
-## Informationen und Anleitung zum installieren:
+# Informationen und Anleitung zum installieren:
 
 
 
-###### Deutsch:
+## Deutsch:
 
 
 **Wie füge ich die neuen Radiostreams ein?**
@@ -14,7 +14,7 @@ Dort findest du eine live_streams.sii. Die tauscht du mit meiner hier einfach um
 
 
 
-###### English:
+## English:
 
 
 **How to install?**
@@ -26,7 +26,7 @@ There you will find a live_streams.sii. Simply copy and then replace it.
 
 
 
-## Informationen:
+# Informationen:
 
 
 Ihr wollt bestimmte Radios in der Liste haben, die aber noch nicht drinne sind? Schreibt eine Anfrage über [dieses Formular](http://laxz.de/radio/kontakt.php)
