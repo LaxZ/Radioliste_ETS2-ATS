@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 169
+ stream_data: 170
  stream_data[0]: "|* Created by LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://radio.truckers.fm/|Truckers FM|Various|UK|128"
@@ -167,10 +167,11 @@ live_stream_def : .live_streams {
  stream_data[162]: "http://stream.1a-webradio.de/2000er/mp3-128/surfmusik-1a/|SAW 1A 2000er|2000s|DE|128"
  stream_data[163]: "http://stream.1a-webradio.de/rock/mp3-128/surfmusik-1a/|SAW 1A Rock|Rock|DE|128"
  stream_data[164]: "http://stream.1a-webradio.de/party/mp3-128/surfmusik-1a/|SAW 1A Party|Party|DE|128"
- stream_data[165]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[166]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[167]: "|* Version: 5.1 *|-|-|0"
- stream_data[168]: "|* LaxZ.de *|-|-|0"
+ stream_data[165]: "http://stream.1a-webradio.de/neu/mp3-128/surfmusik-1a/|SAW 1A Neuheiten|Mix|DE|128"
+ stream_data[166]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[167]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[168]: "|* Version: 5.1 *|-|-|0"
+ stream_data[169]: "|* LaxZ.de *|-|-|0"
 }
 
 }
