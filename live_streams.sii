@@ -16,7 +16,7 @@ live_stream_def : .live_streams {
  stream_data[11]: "http://95.141.29.3/ffn_192|FFN|Various|DE|128"
  stream_data[12]: "http://188.94.97.91/radio21.mp3|Radio 21|Rock|DE|128"
  stream_data[13]: "http://92.51.133.241:8000|Radio Aktiv|Various|DE|128"
- stream_data[14]: "http://antenne-nds.hoerradar.de/mp3-128_antenne-nds|Antenne NDS|Various|DE|128"
+ stream_data[14]: "http://antenne-nds.hoerradar.de/mp3-128_antenne-nds|Antenne Niedersachsen|Various|DE|128"
  stream_data[15]: "http://ndr-ndrradiomv-sn-mp3.akacast.akamaistream.net/7/992/273771/v1/gnl.akacast.akamaistream.net/ndr_ndrradiomv_sn_mp3|NDR 1 MV|Schlager|DE|128"
  stream_data[16]: "http://stream.hoerradar.de/antennemv-mp3|Antenne MV|Various|DE|128"
  stream_data[17]: "http://edge.live.mp3.mdn.newmedia.nacamar.net/ostseewellelive/livestream.mp3|Ostseewelle|Various|DE|128"
