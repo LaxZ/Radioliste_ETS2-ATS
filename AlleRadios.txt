@@ -1,4 +1,4 @@
-Custom Radiostreams for ETS2 & ATS - created by LaxZ
+Custom livestreams.sii for ETS2 & ATS - created by LaxZ
 
 1. Truckers FM
 2. TruckRadio Nonstop
@@ -134,5 +134,3 @@ Custom Radiostreams for ETS2 & ATS - created by LaxZ
 151. Radio Bob (meisten streams)
 152. Bayern 1
 153. SAW 1A-Webradios
-
-Radio Liste created by LaxZ with Visual Studio 2015

@@ -170,7 +170,7 @@ live_stream_def : .live_streams {
  stream_data[165]: "http://stream.1a-webradio.de/neu/mp3-128/surfmusik-1a/|SAW 1A Neuheiten|Mix|DE|128"
  stream_data[166]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[167]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[168]: "|* Version: 5.1 *|-|-|0"
+ stream_data[168]: "|* Version: 5.1.1 *|-|-|0"
  stream_data[169]: "|* LaxZ.de *|-|-|0"
 }
 
