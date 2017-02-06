@@ -7,7 +7,7 @@ live_stream_def : .live_streams {
  stream_data[2]: "http://radio.truckers.fm/|Truckers FM|Various|UK|128"
  stream_data[3]: "http://stream01.iloveradio.de/iloveradio8.mp3|ILoveRadio Christmas|Christmas|DE|128"
  stream_data[4]: "http://radio.eurotruckradio.com:8002/stream.mp3|TruckSimRadio|Various|UK|128"
- stream_data[5]: "http://stream3.laut.fm/simliveradio|SimLiveRadio|Various|DE|128"
+ stream_data[5]: "http://stream.laut.fm/simliveradio|SimLiveRadio|Various|DE|128"
  stream_data[6]: "|[+++++ UKW Radios +++++]|-|-|0"
  stream_data[7]: "http://ndr-ndr2-nds-mp3.akacast.akamaistream.net/7/400/252763/v1/gnl.akacast.akamaistream.net/ndr_ndr2_nds_mp3|NDR 2|Various|DE|128"
  stream_data[8]: "http://ndr-n-joy-mp3.akacast.akamaistream.net/7/665/273752/v1/gnl.akacast.akamaistream.net/ndr_n-joy_mp3|N-Joy|Dance + Top 40|DE|128"
