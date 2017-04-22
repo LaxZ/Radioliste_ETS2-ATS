@@ -115,24 +115,19 @@ Custom livestreams.sii for ETS2 & ATS - created by LaxZ
 132. FFH Party
 133. Rock Antenne
 134. Radio Lippewelle
-135. Best of 2015
+135. Best of 2016
 136. RTL Radio
 137. Radio 1
 138. SRF 3
 139. Energy Bern
-140. ILoveBigFM Dance
-141. ILoveBigFM Mashup
-142. ILoveBigFM Groove Night
-143. ILoveBigFM HipHop
-144. ILoveBigFM Nitrox
-145. ILoveBigFM Urban Club Beats
-146. Radio Fritz
-147. Radio DeinFM
-148. Radio Pilatus
-149. Sport1 FM
-150. Warp Radio
-151. Radio Bob (meisten streams)
-152. Bayern 1
-153. SAW 1A-Webradios
-154. FM1 Today
-155. Radio Berlin 88,8
+140. ILoveBigFM Nitrox EDM
+141. Radio Fritz
+142. Radio DeinFM
+143. Radio Pilatus
+144. Sport1 FM
+145. Oldies Radio
+146. Radio Bob (meisten streams)
+147. Bayern 1
+148. SAW 1A-Webradios
+149. FM1 Today
+150. Radio Berlin 88,8
