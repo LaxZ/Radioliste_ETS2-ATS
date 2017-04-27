@@ -44,7 +44,7 @@ live_stream_def : .live_streams {
  stream_data[39]: "http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-news894/livestream.mp3|NE-WS 89.4|Various|DE|128"
  stream_data[40]: "http://62.138.146.104:8000|Radio Lippewelle|Various|DE|128"
  stream_data[41]: "http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-deinfmowl/livestream.mp3|Radio DeinFM|Various|DE|128"
- stream_data[42]: "http://mp3channels.webradio.antenne.de:80/rockantenne|Rock Antenne|Rock|DE|128"
+ stream_data[42]: "http://mp3channels.webradio.rockantenne.de/rockantenne|Rock Antenne|Rock|DE|128"
  stream_data[43]: "http://mp3.webradio.antenne.de:80|Antenne Bayern|Various|DE|128"
  stream_data[44]: "http://br-mp3-bayern1obb-m.akacast.akamaistream.net/7/273/142690/v1/gnl.akacast.akamaistream.net/br_mp3_bayern1obb_m|Bayern 1|Mix|DE|128"
  stream_data[45]: "http://mp3channels.webradio.antenne.de/classic-rock-live|Antenne Bayern Classic Rock|Classic Rock|DE|128"
@@ -171,10 +171,14 @@ live_stream_def : .live_streams {
  stream_data[166]: "http://stream.1a-webradio.de/party/mp3-128/surfmusik-1a/|SAW 1A Party|Party|DE|128"
  stream_data[167]: "http://stream.1a-webradio.de/neu/mp3-128/surfmusik-1a/|SAW 1A Neuheiten|Mix|DE|128"
  stream_data[168]: "http://stream.89.0rtl.de/mix/mp3-128/direktlinkHP/|89.0 RTL In The Mix|House|DE|128"
- stream_data[169]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[170]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[171]: "|* Version: 5.3 *|-|-|0"
- stream_data[172]: "|* LaxZ.de *|-|-|0"
+ stream_data[169]: "http://mp3channels.webradio.rockantenne.de/deutschrock|Rock Antenne Deutschrock|Rock|DE|128"
+ stream_data[170]: "http://mp3channels.webradio.rockantenne.de/classic-perlen|Rock Antenne Classic|Rock|DE|128"
+ stream_data[171]: "http://airspectrum.cdnstream1.com:8024/1302_192|Motown Magic Oldies|Oldies|US|192"
+ stream_data[172]: "http://50.7.76.251:9663/|HPR1: Traditional Classic Country|Oldies|US|128"
+ stream_data[173]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[174]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[175]: "|* Version: 5.4 *|-|-|0"
+ stream_data[176]: "|* LaxZ.de *|-|-|0"
 }
 
 }
