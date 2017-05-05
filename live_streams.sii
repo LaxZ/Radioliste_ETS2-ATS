@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 177
+ stream_data: 178
  stream_data[0]: "|* Created by LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
  stream_data[2]: "http://radio.truckers.fm/|Truckers FM|Various|UK|128"
@@ -175,10 +175,11 @@ live_stream_def : .live_streams {
  stream_data[170]: "http://mp3channels.webradio.rockantenne.de/classic-perlen|Rock Antenne Classic|Rock|DE|128"
  stream_data[171]: "http://airspectrum.cdnstream1.com:8024/1302_192|Motown Magic Oldies|Oldies|US|192"
  stream_data[172]: "http://50.7.76.251:9663/|HPR1: Traditional Classic Country|Oldies|US|128"
- stream_data[173]: "|[+++++ Informationen +++++]|-|-|0"
- stream_data[174]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[175]: "|* Version: 5.4 *|-|-|0"
- stream_data[176]: "|* LaxZ.de *|-|-|0"
+ stream_data[173]: "http://18403.live.streamtheworld.com/SLAM_MP3_SC|Slam FM|Mix|NL|128"
+ stream_data[174]: "|[+++++ Informationen +++++]|-|-|0"
+ stream_data[175]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
+ stream_data[176]: "|* Version: 5.4.1 *|-|-|0"
+ stream_data[177]: "|* LaxZ.de *|-|-|0"
 }
 
 }
