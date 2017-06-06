@@ -35,4 +35,4 @@ Ihr wollt bestimmte Radios in der Liste haben, die aber noch nicht drinne sind? 
 
 ## Updates:
 
-Ich aktualisiere regelmäßig die live_streams.sii. Da Stream-URL's ausgetauscht werden müssen oder neue Radios hinzukommen. Von daher schaut bitte regelmäßig hier auf der Github Projektseite vorbei um immer das aktuellste Update zu haben.
+Da Stream-URL's ausgetauscht werden müssen oder neue Radios hinzukommen, aktualisiere ich regelmäßig die live_streams.sii. Schaut daher bitte regelmäßig hier auf der Github Projektseite vorbei um immer das aktuellste Update zu haben.
