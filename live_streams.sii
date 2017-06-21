@@ -23,7 +23,7 @@ live_stream_def : .live_streams {
  stream_data[18]: "http://stream.89.0rtl.de/live/mp3-128/direktlinkHP/|89.0 RTL|Various|DE|128"
  stream_data[19]: "http://c22033-l.i.core.cdn.streamfarm.net/22004mdrjump/live/3087mdr_jump/live_de_128.mp3|MDR Jump|Rock + Pop|DE|128"
  stream_data[20]: "http://stream.radiobrocken.de/live/mp3-128/direktlinkHP/|Radio Brocken|Various|DE|128"
- stream_data[21]: "http://stream.hoerradar.de/mp3-radiosaw-128|Radio SAW|Various|DE|128"
+ stream_data[21]: "http://stream.radiosaw.de/saw/mp3-128/github/stream.mp3|Radio SAW|Various|DE|128"
  stream_data[22]: "http://stream.104.6rtl.com/rtl-live/mp3-128|104.6 RTL|Top 40|DE|128"
  stream_data[23]: "http://cdn.nrjaudio.fm/adwz1/de/33001/mp3_128.mp3|Energy 103.4|Top 40 + Pop|DE|128"
  stream_data[24]: "http://85.25.209.152:8000|Star FM|Rock|DE|128"
