@@ -179,7 +179,7 @@ live_stream_def : .live_streams {
  stream_data[174]: "http://18403.live.streamtheworld.com/SLAM_MP3_SC|Slam FM|Mix|NL|128"
  stream_data[175]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[176]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[177]: "|* Version: 5.6 *|-|-|0"
+ stream_data[177]: "|* Version: 5.7 *|-|-|0"
  stream_data[178]: "|* LaxZ.de *|-|-|0"
 }
 
