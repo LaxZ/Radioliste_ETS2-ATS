@@ -174,7 +174,7 @@ live_stream_def : .live_streams {
  stream_data[169]: "http://mp3channels.webradio.rockantenne.de/deutschrock|Rock Antenne Deutschrock|Rock|DE|128"
  stream_data[170]: "http://mp3channels.webradio.rockantenne.de/classic-perlen|Rock Antenne Classic|Rock|DE|128"
  stream_data[171]: "http://airspectrum.cdnstream1.com:8024/1302_192|Motown Magic Oldies|Oldies|US|192"
- stream_data[172]: "http://50.7.76.251:9663/|HPR1: Traditional Classic Country|Oldies|US|128"
+ stream_data[172]: "http://50.7.70.58:8708|HPR1: Traditional Classic Country|Country|US|128"
  stream_data[173]: "http://50.7.77.179:8022/|HPR1: Today's Classic Country|Country|US|128"
  stream_data[174]: "http://18403.live.streamtheworld.com/SLAM_MP3_SC|Slam FM|Mix|NL|128"
  stream_data[175]: "http://138.201.252.53/radiobollerwagen_192|Radio Bollerwagen|Party|DE|192"
