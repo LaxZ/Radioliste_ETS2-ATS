@@ -182,7 +182,7 @@ live_stream_def : .live_streams {
  stream_data[177]: "http://player.ffn.de/ffntannenbaum.mp3|FFN Tannenbaum|Christmas|DE|128"
  stream_data[178]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[179]: "|* Wunsch Radio? PN > LaxZ *|-|-|0"
- stream_data[180]: "|* Version: 5.8 *|-|-|0"
+ stream_data[180]: "|* Version: 5.9 *|-|-|0"
  stream_data[181]: "|* LaxZ.de *|-|-|0"
 }
 
