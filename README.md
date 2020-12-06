@@ -29,7 +29,7 @@ There you will find a live_streams.sii. Simply copy and then replace it.
 # Informationen:
 
 
-Ihr wollt bestimmte Radios in der Liste haben, die aber noch nicht drinne sind? Schreibt eine Anfrage über [dieses Formular](http://laxz.de/radio/kontakt.php)
+Ihr wollt bestimmte Radios in der Liste haben, die aber noch nicht hinzugefügt sind? Erstellt hier auf Github ein neues Issue mit dem Wunschradio.
 
 
 
