@@ -57,7 +57,7 @@ live_stream_def : .live_streams {
  stream_data[52]: "http://mp3.ffh.de/radioffh/hqlivestream.mp3|FFH|Top 40|DE|128"
  stream_data[53]: "http://81.92.238.32:80/|RTL Radio|Various|LUX|128"
  stream_data[54]: "http://streams.rpr1.de/rpr-trier-128-mp3|RPR 1|Various|DE|128"
- stream_data[55]: "http://oe3shoutcast.sf.apa.at:8000/stream|Hitradio Ö3|Top 40|AUT|96"
+ stream_data[55]: "https://orf-live.ors-shoutcast.at/oe3-q1a|Hitradio Ö3|Top 40|AUT|96"
  stream_data[56]: "http://streamplus20.leonex.de:24950|Antenne Salzburg|Various|AUT|128"
  stream_data[57]: "http://onair-ha1.krone.at/kronehit1058.mp3|Kronehit|Various|AUT|64"
  stream_data[58]: "http://regiocast.hoerradar.de/mp3-rsasachsen-128|R.SA|Schlager|DE|128"
